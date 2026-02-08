@@ -10,4 +10,4 @@ for (const name of friend) {
         smallestFriendName = name;
     }
 }
-console.log(smallestFriendName);
+console.log(smallestFriendName); // Output: "ron"
